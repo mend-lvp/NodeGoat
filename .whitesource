@@ -5,6 +5,9 @@
     "projectToken": "",
     "baseBranches": []
   },
+  "leastVulnerablePackageSettings": {
+    "enabled": true    
+},
   "scanSettingsSAST": {
     "enableScan": false,
     "scanPullRequests": false,
